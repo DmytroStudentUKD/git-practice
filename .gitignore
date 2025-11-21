@@ -1,0 +1,18 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Environment variables and sensitive data
+.env
+.env.local
+*.key
+*.pem
